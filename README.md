@@ -35,5 +35,5 @@ I'm a Frontend Software Development student at Anadolu University and a particip
 🛠️ Tools: Git, GitHub, and modern web workflows.
 
 📫 Connect with me 
--LinkedIn: (https://www.linkedin.com/in/azra-meryem-akg%C3%BCn-19788025b/)
--Email: (akgunazrameryem@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/azra-meryem-akg%C3%BCn-19788025b/)
+- [E-posta](akgunazrameryem@gmail.com)
